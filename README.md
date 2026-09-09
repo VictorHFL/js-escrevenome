@@ -1,4 +1,4 @@
-# js-escrevenome
+# 🎨 js-escrevenome
 
 Experimento criativo com p5.js: desenho interativo com o mouse.
 
@@ -7,7 +7,7 @@ Experimento criativo com p5.js: desenho interativo com o mouse.
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-## Sumário
+## 📑 Sumário
 
 - [Sobre](#sobre)
 - [Como funciona](#como-funciona)
@@ -17,11 +17,11 @@ Experimento criativo com p5.js: desenho interativo com o mouse.
 - [Licença](#licença)
 - [Autor](#autor)
 
-## Sobre
+## 📖 Sobre
 
 Sketch que cria um canvas 600x600 e desenha retângulos vermelhos com contorno azul onde o mouse é pressionado. Projeto inicial para aprender `setup()` e `draw()` do p5.js.
 
-## Como funciona
+## ⚙️ Como funciona
 
 ```javascript
 function setup() {
@@ -41,13 +41,13 @@ function draw() {
 > [!NOTE]
 > O p5.js é carregado via CDN no `index.html`. Sem internet o canvas não inicializa.
 
-## Tecnologias
+## 🛠️ Tecnologias
 
 - JavaScript
 - p5.js (CDN)
 - HTML5 / CSS3
 
-## Como executar
+## 🚀 Como executar
 
 ```bash
 git clone https://github.com/VictorHFL/js-escrevenome.git
@@ -55,7 +55,7 @@ cd js-escrevenome
 # abra index.html no navegador e clique/arraste no canvas
 ```
 
-## Estrutura
+## 📁 Estrutura
 
 ```text
 js-escrevenome/
@@ -65,13 +65,13 @@ js-escrevenome/
 └── README.md
 ```
 
-## Licença
+## 📄 Licença
 
 Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para detalhes.
 
 A versão anterior citava CC BY 4.0; a licença vigente é MIT para padronizar com os demais projetos.
 
-## Autor
+## 👤 Autor
 
 **VictorHFL**
 
