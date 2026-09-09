@@ -15,7 +15,6 @@ Experimento criativo com p5.js: desenho interativo com o mouse.
 - [Como executar](#como-executar)
 - [Estrutura](#estrutura)
 - [Licença](#licença)
-- [Autor](#autor)
 
 ## 📖 Sobre
 
@@ -71,9 +70,3 @@ Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para detalhes.
 
 A versão anterior citava CC BY 4.0; a licença vigente é MIT para padronizar com os demais projetos.
 
-## 👤 Autor
-
-**VictorHFL**
-
-- GitHub: [@VictorHFL](https://github.com/VictorHFL)
-- E-mail: yvictorhfl@gmail.com
