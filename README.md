@@ -68,5 +68,3 @@ js-escrevenome/
 
 Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para detalhes.
 
-A versão anterior citava CC BY 4.0; a licença vigente é MIT para padronizar com os demais projetos.
-
